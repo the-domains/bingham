@@ -1,0 +1,28 @@
+name: bingham
+favicon: null
+layout_spectrum: 0.8832870998885483
+typography_spectrum: 0.3790022998582572
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.6731367765460163
+  lightness: 0.14111124351620674
+  saturation: 0.47185314958915114
+  rhythmicContrast: 0.10933692893013358
+purpose: []
